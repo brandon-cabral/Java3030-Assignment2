@@ -1,4 +1,4 @@
-package main.Classes;
+package edu.uml.bcabral;
 
 /**
  * Brandon Cabral - Java 3030 Assignment 2 - 09/12/2020
@@ -11,7 +11,7 @@ package main.Classes;
  *          toString
  */
 
-public class EngineV8 implements main.Interfaces.Engine {
+public class EngineV8 implements  Engine {
 
     //Overrides the cylinderCount function to return , V8 engines have 8 cylinders.
     @Override

@@ -1,4 +1,4 @@
-package MyTests;
+package edu.uml.bcabral;
 
 /**
  * Brandon Cabral - Java 3030 Assignment 2 - 09/12/2020
@@ -7,12 +7,6 @@ package MyTests;
  * Class and Interface works.
  * Includes
  */
-
-import main.Classes.Car;
-import main.Classes.Metallic;
-import main.Classes.Iridescent;
-import main.Classes.ElectricEngine;
-import main.Classes.EngineV8;
 import org.junit.Assert;
 import org.junit.Test;
 

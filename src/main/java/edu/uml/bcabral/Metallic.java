@@ -1,4 +1,4 @@
-package main.Classes;
+package edu.uml.bcabral;
 
 /**
  * Brandon Cabral - Java 3030 Assignment 2 - 09/12/2020
@@ -13,7 +13,7 @@ package main.Classes;
  *
  */
 
-public class Metallic implements main.Interfaces.PaintJob {
+public class Metallic implements  PaintJob {
 
     //assign ct constant value of Metallic
     private ColorType colorType = ColorType.Metallic;

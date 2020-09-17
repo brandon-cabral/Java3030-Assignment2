@@ -1,4 +1,4 @@
-package main.Interfaces;
+package edu.uml.bcabral;
 
 /**
  * Brandon Cabral - Java 3030 Assignment 2 - 09/12/2020
@@ -7,7 +7,6 @@ package main.Interfaces;
  * Used to base Iridescent and Metallic Paint Jobs off of.
  */
 
-import main.Classes.ColorType;
 
 public interface PaintJob {
 
