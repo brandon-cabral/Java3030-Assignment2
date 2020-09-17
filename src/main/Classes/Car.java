@@ -1,4 +1,4 @@
-package Classes;
+package main.Classes;
 
 /**
  * Brandon Cabral - Java 3030 Assignment 2 - 09/12/2020
@@ -7,8 +7,8 @@ package Classes;
  * Direct Injection;
  */
 
-import Interfaces.PaintJob;
-import Interfaces.Engine;
+import main.Interfaces.PaintJob;
+import main.Interfaces.Engine;
 
 public class Car {
 

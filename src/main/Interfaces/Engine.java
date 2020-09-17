@@ -1,4 +1,4 @@
-package Interfaces;
+package main.Interfaces;
 
 /**
  * Brandon Cabral - Java 3030 Assignment 2 - 09/12/2020

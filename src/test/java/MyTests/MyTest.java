@@ -8,11 +8,11 @@ package MyTests;
  * Includes
  */
 
-import Classes.Car;
-import Classes.Metallic;
-import Classes.Iridescent;
-import Classes.ElectricEngine;
-import Classes.EngineV8;
+import main.Classes.Car;
+import main.Classes.Metallic;
+import main.Classes.Iridescent;
+import main.Classes.ElectricEngine;
+import main.Classes.EngineV8;
 import org.junit.Assert;
 import org.junit.Test;
 

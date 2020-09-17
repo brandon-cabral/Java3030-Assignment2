@@ -1,4 +1,4 @@
-package Classes;
+package main.Classes;
 
 /**
  * Brandon Cabral - Java 3030 Assignment 2 - 09/12/2020
@@ -12,7 +12,7 @@ package Classes;
  *          toString
  */
 
-import Interfaces.PaintJob;
+import main.Interfaces.PaintJob;
 
 public class Iridescent implements PaintJob {
 
