@@ -1,4 +1,4 @@
-package main.Classes;
+package edu.uml.bcabral;
 
 /**
  * Brandon Cabral - Java 3030 Assignment 2 - 09/12/2020
@@ -12,7 +12,6 @@ package main.Classes;
  *          toString
  */
 
-import main.Interfaces.PaintJob;
 
 public class Iridescent implements PaintJob {
 

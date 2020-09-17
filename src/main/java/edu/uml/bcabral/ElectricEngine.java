@@ -1,4 +1,4 @@
-package main.Classes;
+package edu.uml.bcabral;
 
 /**
  * Brandon Cabral - Java 3030 Assignment 2 - 09/12/2020
@@ -11,7 +11,7 @@ package main.Classes;
  *          toString
  */
 
-public class ElectricEngine implements main.Interfaces.Engine {
+public class ElectricEngine implements Engine {
 
     //Overrides the cylinderCount function to return 0, Electric engines have no cylinders.
     @Override
