@@ -1,4 +1,4 @@
-package Classes;
+package main.Classes;
 
 /**
  * Brandon Cabral - Java 3030 Assignment 2 - 09/12/2020
@@ -13,7 +13,7 @@ package Classes;
  *
  */
 
-public class Metallic implements Interfaces.PaintJob {
+public class Metallic implements main.Interfaces.PaintJob {
 
     //assign ct constant value of Metallic
     private ColorType colorType = ColorType.Metallic;
